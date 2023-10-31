@@ -45,4 +45,5 @@ print(f"발표자는 {result}입니다.")
 ```
 
 ## TEST
-![image](https://github.com/hxhkim/who_speak/assets/68641751/8391513a-8252-44a8-a58f-7c039e612ce9)
+![image](https://github.com/hxhkim/who_speak/assets/68641751/fdc5e71c-d50f-4593-bce8-6dd8c62eb7c1)
+
