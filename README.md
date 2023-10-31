@@ -24,8 +24,6 @@ code
 /home/code # cat who_speak_ko.py
 # -*- coding: utf-8 -*-
 
-# -*- coding: utf-8 -*-
-
 def who_speaking():
     import random
 
